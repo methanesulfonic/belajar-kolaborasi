@@ -1,2 +1,2 @@
 # belajar-kolaborasi
-belajar-kolaborasi di github
+*belajar-kolaborasi di github itu**menyenangkan***
