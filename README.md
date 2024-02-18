@@ -1,6 +1,7 @@
 # belajar-kolaborasi
-*belajar-kolaborasi di github itu **menyenangkan***
-baris 3 baru
-baris 4 baru
-baris 5 baru
+<h2>Kolaborator:</h2>
+Silakan gunakan format berikut:<br>
+**\* Nama, [LinkedIn/GitHub/Website](Alamat URL).**  
 
+Berikut adalah daftar Volunter yang diterima:
+* Azrul Maulana Ihsan, [github](https://github.com/methanesulfonic/).
